@@ -179,7 +179,3 @@ The final output supports strategic decision-making and reflects an end-to-end a
 
 **Nompumelelo Simango**  
 Strategic Communications & Emerging Data Analytics Professional
-
-LinkedIn: *(Add your link here)*
-
-GitHub: *(Add your profile link here)*
