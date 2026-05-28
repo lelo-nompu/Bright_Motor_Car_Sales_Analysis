@@ -9,7 +9,7 @@ As a Junior Data Analyst, this project was completed to analyse historical vehic
 
 The analysis focused on identifying sales patterns, customer purchasing behaviour, regional performance, and pricing trends to support data-driven decision-making.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 This project aimed to answer the following business questions:
 
@@ -66,7 +66,7 @@ Compiled insights and recommendations for executive decision-making.
 
 ---
 
-# 🛠 Tools Used
+# Tools Used
 
 | Tool | Purpose |
 |------|------|
@@ -78,7 +78,7 @@ Compiled insights and recommendations for executive decision-making.
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 Bright-Motors-Car-Sales-Analysis/
@@ -106,7 +106,7 @@ Bright-Motors-Car-Sales-Analysis/
 
 ---
 
-# 📊 Key Analysis Performed
+# Key Analysis Performed
 
 ## Sales Performance
 - Top performing car brands
@@ -128,7 +128,7 @@ Bright-Motors-Car-Sales-Analysis/
 
 ---
 
-# 🔎 Data Preparation Notes
+# Data Preparation Notes
 
 During analysis:
 
@@ -138,7 +138,7 @@ During analysis:
 
 ---
 
-# 📈 Dashboard Components
+# Dashboard Components
 
 The dashboard includes:
 
@@ -155,7 +155,7 @@ Interactive slicers:
 
 ---
 
-# 💡 Key Business Recommendations
+# Key Business Recommendations
 
 Based on the analysis:
 
@@ -167,7 +167,7 @@ Based on the analysis:
 
 ---
 
-# 🚀 Project Outcome
+# Project Outcome
 
 This project demonstrates the use of SQL, data visualisation, and business storytelling to transform raw transactional data into actionable insights.
 
@@ -175,7 +175,7 @@ The final output supports strategic decision-making and reflects an end-to-end a
 
 ---
 
-## 👩🏾‍💻 Author
+## Author
 
 **Nompumelelo Simango**  
 Strategic Communications & Emerging Data Analytics Professional
